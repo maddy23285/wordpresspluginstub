@@ -1,0 +1,1 @@
+<h1>Mad Plugin Admin Page</h1>

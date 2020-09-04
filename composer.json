@@ -1,0 +1,17 @@
+{
+    "name": "mswami/madplugin",
+    "description": "This is the test plugin",
+    "type": "project",
+    "license": "GLV",
+    "authors": [
+        {
+            "name": "Narayanan Madaswamy",
+            "email": "nmadaswamy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4":{"Inc\\":"./inc"}
+    }
+}
